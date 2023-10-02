@@ -13,3 +13,7 @@ Este é um projeto simples e educacional que visa ajudar desenvolvedores inician
   <img align="center" alt="Lais-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lais-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
+
+## Demonstração do Projeto
+Esta imagem mostra a página da landing page do iPhone 13 que foi criada neste projeto.
+<img src="/image/demonstracao_LandingPage_Iphone.png" alt="Demonstração Landing Page IPhone">
