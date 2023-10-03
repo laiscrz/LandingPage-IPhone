@@ -8,12 +8,13 @@ Este é um projeto simples e educacional que visa ajudar desenvolvedores inician
 * Implementar interatividade com JavaScript para criar efeitos dinâmicos.
 
 ## Tecnologias Utilizadas
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Lais-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lais-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lais-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </div>
 
 ## Demonstração do Projeto
-Esta imagem mostra a página da landing page do iPhone 13 que foi criada neste projeto.
-<img src="/image/demonstracao_LandingPage_Iphone.png" alt="Demonstração Landing Page IPhone">
+Esta imagem mostra a página da landing page do iPhone 13 que foi criada neste projeto.</br>
+
+<img width="900" src="/image/demonstracao_LandingPage_Iphone.png" alt="Demonstração Landing Page IPhone">
